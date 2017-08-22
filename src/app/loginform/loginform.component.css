@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px 0;
+}
+.container{
+    border: 1px solid gray; 
+    /*border-width: 10px 10px 10px;*/
+    margin-top: 5%;
+    background-color: lightgray;
+    width:55%;
+    height :55%;
+}
